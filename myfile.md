@@ -21,7 +21,7 @@ This is a sample Markdown file.
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 **HTML Iframe**  
-<iframe width="420" height="345" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
 
 **HTML Embed (using Embed.ly)**  
