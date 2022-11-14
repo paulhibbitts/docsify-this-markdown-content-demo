@@ -2,17 +2,20 @@
 
 This is a sample Markdown file.
 
-**List**
+**Markdown List**
 - Item One
 - Item two
 - Item three
 
-**Code Block**  
+**Markdown Code Block**  
 ```javascript
 <script>
     alert('Hello, World!');
 </script>
 ```
+
+**Markdown Image**  
+![W3Schools.com](https://www.w3schools.com/images/w3schools_green.jpg)
 
 **HTML Iframe**  
 <iframe width="420" height="345" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
