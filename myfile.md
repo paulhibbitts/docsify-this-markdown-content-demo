@@ -15,7 +15,7 @@ This is a sample Markdown file.
 ```
 
 **HTML Iframe**  
-<iframe width="420" height="345" src="(https://www.youtube.com/embed/lJIrF4YjHfQ">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
 
 **HTML Embed (using Embed.ly)**  
