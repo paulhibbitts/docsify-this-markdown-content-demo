@@ -20,7 +20,7 @@ This is a sample Markdown file.
 ## Markdown Button (Styled with CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
-## Markdown Footnotes
+## Markdown Footnote
 Here is a simple footnote[^1]. With some additional text after it.
 
 ## HTML iFrame (YouTube)
