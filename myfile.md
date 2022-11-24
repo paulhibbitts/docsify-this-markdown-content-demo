@@ -31,9 +31,6 @@ This is a sample Markdown file.
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
 
 **Footnotes**  
-Here's a simple footnote,[^1] and here's another one.[^2]
+Here is a review of existing methods[^1].
 
-[^1]: This is the first footnote.
-
-[^2]: Here's one with multiple paragraphs and code.
-
+[^1]: a footnote
