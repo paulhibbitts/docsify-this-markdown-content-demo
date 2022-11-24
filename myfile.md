@@ -20,6 +20,9 @@ This is a sample Markdown file.
 ## Markdown Button (Styled with CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
+## Markdown Footnotes
+Here is a simple footnote[^1]. With some additional text after it.
+
 ## HTML iFrame (YouTube)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
@@ -29,8 +32,5 @@ This is a sample Markdown file.
 
 ## HTML Embed (using Embed.ly) 
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a>
-
-## Footnotes
-Here is a simple footnote[^1]. With some additional text after it.
 
 [^1]: My reference.
