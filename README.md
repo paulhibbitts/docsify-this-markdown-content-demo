@@ -17,9 +17,6 @@ This is a sample Markdown file.
 ## Markdown Image
 ![W3Schools.com](https://www.w3schools.com/images/w3schools_green.jpg)
 
-## Markdown Image (Resized with CSS Class)
-![W3Schools.com](https://www.w3schools.com/images/w3schools_green.jpg  ':class=image-75')
-
 ## Markdown Button (Styled with CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
