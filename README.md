@@ -24,8 +24,8 @@ This is a sample Markdown file.
 Here is a simple footnote[^1]. With some additional text after it.
 
 ## HTML iFrame (YouTube)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
-</iframe>
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
+</iframe></div>
 
 ## HTML iFrame (H5P) 
 <iframe src="https://h5p.org/h5p/embed/214115" width="778" height="279" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
