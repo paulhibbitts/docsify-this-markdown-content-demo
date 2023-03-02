@@ -7,11 +7,22 @@ This is a sample Markdown file.
 - Item two
 - Item three
 
-## Markdown Code Block 
+## Markdown Javascript Code Block 
 ```javascript
 <script>
     alert('Hello, World!');
 </script>
+```
+
+## Markdown CSS Code Block 
+```css
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: darkred;
+}
 ```
 
 ## Markdown Image
