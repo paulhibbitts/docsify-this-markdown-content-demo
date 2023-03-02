@@ -10,7 +10,7 @@ This is a sample Markdown file.
 ## Markdown Javascript Code Block 
 ```javascript
 <script>
-    alert('Hello, World!');
+  alert('Hello, World!');
 </script>
 ```
 
