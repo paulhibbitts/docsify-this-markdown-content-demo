@@ -9,4 +9,4 @@
 - Multiple themes
 
 [Markdown Content Demo](#hello)
-[GitHub]([https://github.com/docsifyjs/docsify/](https://github.com/paulhibbitts/markdown-content-demo))
+[GitHub](https://github.com/paulhibbitts/markdown-content-demo)
