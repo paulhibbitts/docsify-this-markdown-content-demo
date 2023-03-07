@@ -8,5 +8,5 @@
 - No statically built html files
 - Multiple themes
 
-[Markdown Content Demo](#docsify)
+[Markdown Content Demo](#hello)
 [GitHub]([https://github.com/docsifyjs/docsify/](https://github.com/paulhibbitts/markdown-content-demo))
