@@ -31,7 +31,6 @@ h1 {
 ## Markdown Button (Styled with CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
-<head>
 <style>
 .mybutton {
   cursor: pointer;
@@ -48,7 +47,6 @@ h1 {
   -webkit-appearance: none;
 }
 </style>
-</head>
 
 ## Markdown Button (Styled with custom CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
