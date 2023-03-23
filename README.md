@@ -33,7 +33,6 @@ h1 {
 
 <style>
 .markdown-section .mybutton, .markdown-section .mybutton:hover {
-  all:unset!important;
   cursor: pointer;
   color: #CC0000;
   height: auto;
