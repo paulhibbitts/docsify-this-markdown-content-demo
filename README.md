@@ -45,6 +45,7 @@ h1 {
   line-height: 1.2rem;
   background-color: white;
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
+  font-weight: bold;
   text-decoration: none;
   -webkit-appearance: none;
 }
