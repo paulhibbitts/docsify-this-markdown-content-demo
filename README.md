@@ -58,8 +58,6 @@ h1 {
 ## Markdown Button (Styled with custom CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
 
-<a href="https://canvas.sfu.ca/courses/44038/quizzes/166553" class="mybutton">Required Reading Quiz due Jun 4th</a>
-
 ## Markdown Footnote
 Here is a simple footnote[^1]. With some additional text after it.
 
