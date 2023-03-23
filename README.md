@@ -1,3 +1,22 @@
+<head>
+<style>
+.mybutton {
+  background-color: #CC0000;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 3px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+  
 # Hello!
 
 This is a sample Markdown file.
