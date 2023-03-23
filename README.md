@@ -39,9 +39,9 @@ h1 {
   display: inline-block;
   border: 2px solid #CC0000;
   border-radius: .25rem;
-  margin-top: 4px;
-  margin-bottom: 4px;
-  padding: 8px 18px 8px 18px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  padding: 8px;
   line-height: 1.2rem;
   background-color: white;
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
