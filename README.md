@@ -38,7 +38,7 @@ h1 {
   height: auto;
   display: inline-block;
   border: 2px solid #CC0000;
-  border-radius: .25rem;
+  border-radius: 4rem;
   margin-top: 2px;
   margin-bottom: 2px;
   padding: 8px;
