@@ -50,7 +50,7 @@ h1 {
 }
   
 .markdown-section .mybutton:hover {    
-  text-decoration: none
+  all:unset!important;
 }
   
 </style>
