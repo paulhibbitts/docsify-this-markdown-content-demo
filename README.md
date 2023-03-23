@@ -28,7 +28,7 @@ h1 {
 ## Markdown Image
 ![W3Schools.com](https://www.w3schools.com/images/w3schools_green.jpg)
 
-## Markdown Button (Styled with CSS Class)
+## Markdown Button (Styled with Docsify-This CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 <style>
