@@ -34,17 +34,18 @@ h1 {
 <head>
 <style>
 .mybutton {
-  background-color: #CC0000;
-  border: none;
-  color: white;
-  font-weight: bold;
-  padding: 15px 30px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 6px 3px;
   cursor: pointer;
+  color: white;
+  height: auto;
+  display: inline-block;
+  margin-top: 4px;
+  padding: 10px 20px 10px 20px;
+  line-height: 1.2rem;
+  background-color: #0b97ef;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: .25rem;
+  -webkit-appearance: none;
 }
 </style>
 </head>
