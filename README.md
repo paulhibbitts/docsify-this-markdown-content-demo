@@ -34,10 +34,10 @@ h1 {
 <style>
 .mybutton {
   cursor: pointer;
-  color: white;
+  color: #CC0000;
   height: auto;
   display: inline-block;
-  border: 2px solid #0374B5;
+  border: 2px solid #CC0000;
   border-radius: .25rem;
   margin-top: 0px;
   padding: 8px 18px 8px 18px;
