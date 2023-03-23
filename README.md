@@ -1,21 +1,3 @@
-<head>
-<style>
-.mybutton {
-  background-color: #CC0000;
-  border: none;
-  color: white;
-  font-weight: bold;
-  padding: 15px 30px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 6px 3px;
-  cursor: pointer;
-}
-</style>
-</head>
-  
 # Hello!
 
 This is a sample Markdown file.
@@ -48,6 +30,24 @@ h1 {
 
 ## Markdown Button (Styled with CSS Class)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
+
+<head>
+<style>
+.mybutton {
+  background-color: #CC0000;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 3px;
+  cursor: pointer;
+}
+</style>
+</head>
 
 ## Markdown Footnote
 Here is a simple footnote[^1]. With some additional text after it.
