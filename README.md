@@ -32,7 +32,8 @@ h1 {
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 <style>
-.markdown-section .mybutton {
+.markdown-section .mybutton, .markdown-section .mybutton:hover {
+  all:unset!important;
   cursor: pointer;
   color: #CC0000;
   height: auto;
@@ -48,11 +49,6 @@ h1 {
   text-decoration: none;
   -webkit-appearance: none;
 }
-  
-.markdown-section .mybutton:hover {    
-  all:unset!important;
-}
-  
 </style>
 
 ## Markdown Button (Styled with custom CSS Class)
