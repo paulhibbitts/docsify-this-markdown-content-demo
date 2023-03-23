@@ -46,9 +46,13 @@ h1 {
   background-color: white;
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
   text-decoration: none;
-  font-weight: 600;
   -webkit-appearance: none;
 }
+  
+.markdown-section .mybutton:hover {    
+  text-decoration: none
+}
+  
 </style>
 
 ## Markdown Button (Styled with custom CSS Class)
