@@ -37,13 +37,15 @@ h1 {
   color: white;
   height: auto;
   display: inline-block;
+  border: 2px solid #0374B5;
+  border-radius: .25rem;
   margin-top: 4px;
   padding: 10px 20px 10px 20px;
   line-height: 1.2rem;
-  background-color: #0b97ef;
+  background-color: white;
+  font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
   text-decoration: none;
   font-weight: 600;
-  border-radius: .25rem;
   -webkit-appearance: none;
 }
 </style>
