@@ -32,7 +32,7 @@ h1 {
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 <style>
-.mybutton {
+.markdown-section .mybutton {
   cursor: pointer;
   color: #CC0000;
   height: auto;
