@@ -46,7 +46,6 @@ h1 {
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
   font-weight: bold;
   text-decoration: none;
-  -webkit-appearance: none;
 }
 </style>
 
