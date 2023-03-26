@@ -1,11 +1,6 @@
-# Hello!
+# Hello👋🏼
 
-This is a sample Markdown file.
-
-## Markdown List
-- Item One
-- Item two
-- Item three
+This is a sample Markdown file for display by Docsify-This.
 
 ## Markdown Javascript Code Block 
 ```javascript
