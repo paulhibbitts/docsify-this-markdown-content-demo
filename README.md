@@ -25,10 +25,13 @@ h1 {
 }
 ```
 
-## Markdown Image (Styled with Docsify-This CSS Class)
+## Markdown Image
 ![Octocat](https://octodex.github.com/images/original.png ':class=image-75')
 
-## Markdown Button (Styled with Docsify-This CSS Class)
+## Markdown Image (Styled with Docsify-This CSS Class `image-75`)
+![Octocat](https://octodex.github.com/images/original.png ':class=image-75')
+
+## Markdown Button (Styled with Docsify-This CSS Class `button`)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
 <style>
@@ -49,7 +52,7 @@ h1 {
 }
 </style>
 
-## Markdown Button (Styled with custom CSS Class)
+## Markdown Button (Styled with custom CSS Class `mybutton`)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=mybutton')
 
 ## Markdown Footnote
@@ -59,7 +62,7 @@ Here is a simple footnote[^1]. With some additional text after it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
 
-## HTML iFrame (YouTube, Styled with Docsify-This CSS Class)
+## HTML iFrame (YouTube, Styled with Docsify-This CSS Class `video-container-16by9`)
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe></div>
 
