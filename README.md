@@ -1,4 +1,4 @@
-# Hello👋🏼
+# Hello!
 
 This is a sample Markdown file for display by Docsify-This.
 
