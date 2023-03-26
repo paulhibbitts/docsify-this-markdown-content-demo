@@ -26,7 +26,7 @@ h1 {
 ```
 
 ## Markdown Image
-![Octocat](https://octodex.github.com/images/original.png ':class=image-75')
+![Octocat](https://octodex.github.com/images/original.png)
 
 ## Markdown Image (Styled with Docsify-This CSS Class `image-75`)
 ![Octocat](https://octodex.github.com/images/original.png ':class=image-75')
