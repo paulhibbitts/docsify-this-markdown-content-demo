@@ -25,6 +25,13 @@ h1 {
 }
 ```
 
+## Markdown Kotlin Code Block 
+```kotlin
+fun main(args: Array<String>) {
+    println("Hello, World!")
+}
+```
+
 ## Markdown Image
 ![Octocat](https://octodex.github.com/images/original.png)
 
