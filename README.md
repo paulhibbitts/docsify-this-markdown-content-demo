@@ -55,7 +55,7 @@ h1 {
 ## Markdown Footnote
 Here is a simple footnote[^1]. With some additional text after it.
 
-## HTML iFrame (YouTube)
+## HTML iFrame (YouTube Styled with Docsify-This CSS Class)
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe></div>
 
