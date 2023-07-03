@@ -36,6 +36,9 @@ fun main(args: Array<String>) {
 ## Markdown Button (Styled with Docsify-This CSS Class `button`)
 [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
+## Markdown Navbar Pill (Styled with Docsify-This CSS Class `navbarpilltton`)
+[GitHub](https://github.com/paulhibbitts/docsify-this-markdown-content-demo ':class=navbarpill')
+
 <style>
 .markdown-section .mybutton, .markdown-section .mybutton:hover {
   cursor: pointer;
