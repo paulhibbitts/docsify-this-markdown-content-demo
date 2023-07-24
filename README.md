@@ -67,19 +67,12 @@ Here is a simple footnote[^1]. With some additional text after it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe>
 
-## HTML iFrame (YouTube, Styled with Docsify-This CSS Class `video-container-16by9`)
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
-</iframe></div>
-
 ## HTML iFrame (YouTube, Styled with Docsify-This CSS Class `video-container-4by3`)
 <div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/lJIrF4YjHfQ">
 </iframe></div>
 
 ## HTML iFrame (Google Slides)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-## HTML iFrame (Google Slides, Styled with Docsify-This CSS Class `video-container-16by9`)
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## HTML iFrame (Google Slides, Styled with Docsify-This CSS Class `video-container-4by3`)
 <div class="video-container-4by3"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
