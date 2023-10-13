@@ -4,4 +4,13 @@
 | -------- | ------- |
 | January | $250 |
 | February | $80 |
-| March | $420 |
+| March | $420 |  
+
+# Markdown Table Example 2
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |  
