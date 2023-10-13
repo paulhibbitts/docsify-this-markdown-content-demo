@@ -4,7 +4,7 @@
 | -------- | ------- |
 | January | $250 |
 | February | $80 |
-| March | $420 |
+| March | $420 |  
 
 # Example 2
 
