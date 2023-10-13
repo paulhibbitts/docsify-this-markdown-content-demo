@@ -1,4 +1,4 @@
-#Example 1
+# Example 1
 
 | Month | Savings |
 | -------- | ------- |
@@ -6,7 +6,7 @@
 | February | $80 |
 | March | $420 |
 
-#Example 2
+# Example 2
 
 | Item              | In Stock | Price |
 | :---------------- | :------: | ----: |
